@@ -1,0 +1,6 @@
+{
+  "name": "Word-Epub Converter",
+  "description": "Convert Word documents to clean EPUB files with custom metadata support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

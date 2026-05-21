@@ -1,0 +1,21 @@
+# Node.js Dependencies (Install using: npm install)
+# This project uses package.json for dependency management.
+
+express
+mammoth
+epub-gen-memory
+multer
+react
+react-dom
+lucide-react
+sonner
+motion
+vite
+tailwindcss
+tsx
+typescript
+@google/genai
+class-variance-authority
+clsx
+tailwind-merge
+next-themes
