@@ -202,7 +202,6 @@ Handles secure file uploads.
 
 # 📂 Project Structure
 
-```text id="xjlwm2"
 Word-to-EPUB-Converter/
 │
 ├── client/
@@ -233,15 +232,14 @@ Word-to-EPUB-Converter/
 
 ## 1️⃣ Clone Repository
 
-```bash id="xjlwm3"
-git clone https://github.com/yourusername/Word-to-EPUB-Converter.git
+
+git clone https://github.com/swathi324/WORD-EPUB-CONVERTER.git
 ```
 
 ---
 
 # 2️⃣ Install Dependencies
 
-```bash id="xjlwm4"
 npm install
 ```
 
@@ -249,15 +247,13 @@ npm install
 
 # 3️⃣ Run Development Server
 
-```bash id="xjlwm5"
 npm run dev
 ```
 
----
+
 
 # 🌐 Open Browser
 
-```text id="xjlwm6"
 http://localhost:3000
 ```
 
@@ -265,7 +261,6 @@ http://localhost:3000
 
 # 📦 Production Build
 
-```bash id="xjlwm7"
 npm run build
 npm start
 ```
@@ -392,7 +387,6 @@ This project helped in understanding:
 If you found this project useful:
 
 🌟 Star the repository
-🍴 Fork the project
 🚀 Contribute improvements
 
 ---
